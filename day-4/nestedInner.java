@@ -19,6 +19,9 @@ class nestedInner{
     public static void main(String[] args) {
         Outer o = new Outer();
         o.outer_dis();
+
+        Outer.Inner i = new Outer().new Inner();
+        i.display();
     }
 
 }
