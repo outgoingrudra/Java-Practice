@@ -1,5 +1,6 @@
-cd ..
-git add .
-git commit -m "today task"
-git push -u origin main
-cd day-
+ cd ..
+ git add .
+ git commit -m "today task"
+ git push -u origin main
+ cd day-6
+ 
