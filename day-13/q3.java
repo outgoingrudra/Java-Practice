@@ -9,7 +9,7 @@ public  class  q3{
        
       dept d= dept.CIVIL;
 
-      switch (d){
+      switch(d){
           case CS:
                 System.out.println("Computer Science ");
                 break;
