@@ -5,8 +5,11 @@ interface  A {
 
 }
 class q5{
-    static int c = 23234;
+   
     public static void main(String[] args) {
+        
+     int c = 23234;
+
         A a= (x,y)-> {
             int ans = x*y;
             return ans*c ;
